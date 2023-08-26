@@ -13,9 +13,9 @@ Buono’s Pizza is a family owned and operated pizza shop in Gilbert Arizona. As
 - [How To Contribute](#howtocontribute)
 
 ## Installation
-Clone here at: https://github.com/pylabview/Buonos_Pizzas
+Clone here at: https://github.com/jeremiahmiranda79/buonos-pizza-1
 
-Test here at: https://pylabview.github.io/Buonos_Pizzas/
+Test here at: https://jeremiahmiranda79.github.io/buonos-pizza-1/
 
 ## Usage
 - As a customer I want to see the Buono’s pizza shop menu.
